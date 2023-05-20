@@ -1,0 +1,118 @@
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\appsettings.Development.json
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\appsettings.json
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\lab2.exe
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\lab2.deps.json
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\lab2.runtimeconfig.json
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\lab2.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\lab2.pdb
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\lab2.csproj.AssemblyReference.cache
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\lab2.MvcApplicationPartsAssemblyInfo.cs
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\lab2.MvcApplicationPartsAssemblyInfo.cache
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\staticwebassets\msbuild.lab2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\staticwebassets\msbuild.build.lab2.props
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lab2.props
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lab2.props
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\staticwebassets.build.json
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\staticwebassets.development.json
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\scopedcss\bundle\lab2.styles.css
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\lab2.csproj.CopyComplete
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\lab2.dll
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\refint\lab2.dll
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\lab2.pdb
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+E:\Учеба\Semestr 6\AIA\lab2\obj\Debug\net7.0\ref\lab2.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\Google.Protobuf.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\MySql.Data.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Учеба\Semestr 6\AIA\lab2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\appsettings.Development.json
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\appsettings.json
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\lab2.exe
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\lab2.deps.json
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\lab2.runtimeconfig.json
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\lab2.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\lab2.pdb
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\Google.Protobuf.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\MySql.Data.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\lab2.csproj.AssemblyReference.cache
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\lab2.MvcApplicationPartsAssemblyInfo.cs
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\lab2.MvcApplicationPartsAssemblyInfo.cache
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\staticwebassets\msbuild.lab2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\staticwebassets\msbuild.build.lab2.props
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lab2.props
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lab2.props
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\staticwebassets.build.json
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\staticwebassets.development.json
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\scopedcss\bundle\lab2.styles.css
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\lab2.csproj.CopyComplete
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\lab2.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\refint\lab2.dll
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\lab2.pdb
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+E:\Учеба\Semestr 6\AIA\Web Services and REST APIs\obj\Debug\net7.0\ref\lab2.dll
